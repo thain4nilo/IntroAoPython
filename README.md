@@ -1,4 +1,4 @@
-# intro-ao-python
+# Introdução ao Python
 ## Notebook de Exercícios e Notas de Aprendizado em Python
 
 Este repositório contém um conjunto de exercícios e notas destinados ao aprendendizado da linguagem Python, seja você um iniciante buscando aprender o básico ou desenvedor já experiente para usar como consulta para eventuais dúvidas.
@@ -11,7 +11,7 @@ Este notebook inclui exercícios e notas sobre os seguintes tópicos em Python:
 
 - **Estruturas de Controle**: Explore estruturas de controle como condicionais e loops.
 
-- **Listas e Dicionários**: Trabalhe com estruturas de dados importantes em Python.
+- **Listas, Dicionários e Tuplas**: Trabalhe com estruturas de dados importantes em Python.
 
 - **Funções**: Aprenda a definir e usar funções em Python.
 
