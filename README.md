@@ -20,3 +20,6 @@ Este notebook inclui exercícios e notas sobre os seguintes tópicos em Python:
 - **Manipulação de Arquivos**: Saiba como ler e escrever arquivos em Python.
 
 - **Manipulação de Strings**: Trabalhe com strings e explore operações comuns.
+
+
+Espero que seja útil! :smile:
